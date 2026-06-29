@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BankAlfalah.EForm.Api.props" />
+</Project>
